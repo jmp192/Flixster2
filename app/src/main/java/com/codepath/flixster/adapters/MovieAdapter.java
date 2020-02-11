@@ -80,6 +80,7 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> 
 
             // 1. Register click listener on the whole row
             // 2. Navigate to a new activity on tap
+            //3.
             container.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
